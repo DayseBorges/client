@@ -38,7 +38,7 @@ const Contact = () => {
         icon: "error",
         confirmButtonText: "OK",
       });
-    }
+    };
   };
 
   return (
